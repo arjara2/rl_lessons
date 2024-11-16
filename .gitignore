@@ -1,0 +1,6 @@
+# PyTorch
+.idea/
+__pycache__/
+
+# Ноутбуки уроков
+lessons/
